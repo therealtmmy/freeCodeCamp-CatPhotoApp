@@ -1,2 +1,2 @@
 # freeCodeCamp-CatPhotoApp
-Solution to freeCodeCamp CatPhotoApp task.
+Learning HTML by building the freeCodeCamp CatPhotoApp
